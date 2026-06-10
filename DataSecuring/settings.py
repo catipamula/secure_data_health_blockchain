@@ -25,7 +25,7 @@ SECRET_KEY = 'mgdbhpmqsa%b$kfz7cntiy*vkyo%y#j$)r#1do)bx)w9tj11@n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = [ 'https://secure-data-health-blockchain.onrender.com','127.0.0.1', 'localhost']
 
 
 # Application definition
